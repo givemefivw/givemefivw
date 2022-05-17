@@ -1,4 +1,4 @@
-### Hi there, I'm givemefivw,from Chinese.
+### Hi there, I'm givemefivw
 
 
 ![](https://github-readme-stats.vercel.app/api?username=givemefivw)
